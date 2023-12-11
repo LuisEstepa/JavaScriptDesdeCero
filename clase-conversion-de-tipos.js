@@ -17,5 +17,5 @@ console.log(typeof decimal)
 
 // Implicit Type casting
 
-const sum = '5'.integer() + 3
+const sum = '5' + 3
 console.log(sum)
