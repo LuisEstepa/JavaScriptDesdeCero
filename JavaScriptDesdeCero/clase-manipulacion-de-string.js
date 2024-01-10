@@ -12,7 +12,7 @@ console.log(saludo.toLocaleLowerCase()) // devuelve el string en minusculas
 console.log(saludo.toLocaleUpperCase()) // devuelve el string en mayusculas
 
  
-const saludoDividido = saludo.split(' ')
+const saludoDividido = saludo.split('purpura,')
 console.log(saludoDividido)
 console.log(saludoDividido[1])
 
