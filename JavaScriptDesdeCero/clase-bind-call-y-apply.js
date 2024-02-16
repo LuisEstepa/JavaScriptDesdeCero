@@ -17,4 +17,6 @@ dogGreeting.apply(newHouse, necessaryValues)
 
 const bindingWithBind = dogGreeting.bind(newHouse, owner, address)
 
+console.log(dogGreeting.bind(newHouse, owner, address))
+
 bindingWithBind()
