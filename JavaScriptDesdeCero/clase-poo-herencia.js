@@ -33,5 +33,5 @@ Perro.prototype.segundoMetodo=function(){r
 };
 
 Animal.prototype.tercerMetodo=function(){
-    console.log("Un metodo mÃ¡s");
+    console.log("Un metodo más");
 };
